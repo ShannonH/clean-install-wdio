@@ -2,8 +2,7 @@
   "name": "clean-install-wdio",
   "type": "module",
   "devDependencies": {
-    "@wdio/cli": "^8.31.1",
-    "expect-webdriverio": "^4.11.7"
+    "@wdio/cli": "^8.31.1"
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.ts"

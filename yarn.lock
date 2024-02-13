@@ -966,7 +966,7 @@ execa@^8.0.1:
     signal-exit "^4.1.0"
     strip-final-newline "^3.0.0"
 
-expect-webdriverio@^4.11.2, expect-webdriverio@^4.11.7:
+expect-webdriverio@^4.11.2:
   version "4.11.7"
   resolved "https://registry.yarnpkg.com/expect-webdriverio/-/expect-webdriverio-4.11.7.tgz#fe895e543ec6bc706107824174e3e8523b72cbfd"
   integrity sha512-r+blJXutw7j1KTJcLqo8cm7E+lnPQChlzCVnWb0HvOqZajSpypr3/aJ2nBll69VQwnTVTfHzTElKXaFh7XT5HA==
