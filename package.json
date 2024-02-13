@@ -2,7 +2,6 @@
   "name": "clean-install-wdio",
   "type": "module",
   "devDependencies": {
-    "@types/mocha": "^9.0.0",
     "@wdio/cli": "^8.31.1",
     "expect-webdriverio": "^4.11.7"
   },
